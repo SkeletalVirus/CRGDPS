@@ -6,5 +6,12 @@
     "verifier": "Florian",
     "verification": "https://www.youtube.com/watch?v=VWEXy65YAzc",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Milu",
+            "link": "https://youtu.be/NBUnpip26VE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
