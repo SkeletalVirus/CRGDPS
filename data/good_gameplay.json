@@ -8,6 +8,12 @@
     "percentToQualify": 80,
     "records": [
         {
+            "user": "BriXX",
+            "link": "https://youtu.be/ncDcd1aoRX8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Milu",
             "link": "https://youtu.be/6rlE1eOsyA4",
             "percent": 100,
