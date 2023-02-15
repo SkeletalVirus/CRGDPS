@@ -6,5 +6,12 @@
     "verifier": "TheRealWacazy",
     "verification": "https://youtu.be/ze-oO-Jpbwc",
     "percentToQualify": 80,
-    "records": []
+    "records": [
+        {
+            "user": "Milu",
+            "link": "https://youtu.be/6rlE1eOsyA4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
