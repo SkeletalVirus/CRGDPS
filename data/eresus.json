@@ -6,5 +6,12 @@
     "verifier": "SkeletalVirus",
     "verification": "https://youtu.be/NCV8HuW9h0M",
     "percentToQualify": 73,
-    "records": []
+    "records": [
+        {
+            "user": "Milu",
+            "link": "https://youtu.be/IixLDAXfxp0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
