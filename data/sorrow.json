@@ -6,5 +6,12 @@
     "verifier": "ZephfuR",
     "verification": "https://youtu.be/U74vPSJOTeY",
     "percentToQualify": 67,
-    "records": []
+    "records": [
+        {
+            "user": "Milu",
+            "link": "https://youtu.be/E9qf4wamBMw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
