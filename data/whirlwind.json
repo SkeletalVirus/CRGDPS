@@ -6,5 +6,12 @@
     "verifier": "BriXX",
     "verification": "https://youtu.be/D30Mr1i-cW0",
     "percentToQualify": 50,
-    "records": []
+    "records": [
+        {
+            "user": "Milu",
+            "link": "https://youtu.be/HP8cVNtd9js",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
