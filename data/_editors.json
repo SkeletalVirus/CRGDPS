@@ -14,20 +14,20 @@
         "name": "Crypto",
         "link": "https://www.youtube.com/channel/UCU7sG-uL-r3Fg68K19-IGEA"
     },
-    {
-        "role": "admin",
-        "name": "W0of",
-        "link": "https://www.youtube.com/channel/UCXjk41FXtxSmFBERzzDqspw"
-    },
-        {
-        "role": "admin",
-        "name": "Enenzo",
-        "link": "https://www.youtube.com/channel/UCQWVwSP9O9W9krk3RPoxEmg"
-    },
             {
         "role": "admin",
         "name": "BriXX",
         "link": "https://www.youtube.com/channel/UCOtzio8UKI7iYLSyxdoQxHg"
+    },
+    {
+        "role": "helper",
+        "name": "W0of",
+        "link": "https://www.youtube.com/channel/UCXjk41FXtxSmFBERzzDqspw"
+    },
+        {
+        "role": "helper",
+        "name": "Enenzo",
+        "link": "https://www.youtube.com/channel/UCQWVwSP9O9W9krk3RPoxEmg"
     },
     {
         "role": "helper",
