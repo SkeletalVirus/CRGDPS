@@ -11,7 +11,13 @@
             "user": "Milu",
             "link": "https://youtu.be/IKpEkNaub0M",
             "percent": 100,
-            "hz": 300
+            "hz": 360
+        },
+        {
+            "user": "Florian",
+            "link": "https://youtu.be/MH1y_RkkxpQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
